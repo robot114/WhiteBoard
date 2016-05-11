@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">WhiteBoard</string>
+    <string name="promptCameraAccessDenied">Cannot access camera. Try to authrize it.</string>
+    <string name="promptOpenCameraFailed">Open camera failed! It may be used by some other app.</string>
+    <string name="promptPreviewFailed">Cannot start preview!</string>
+    <string name="promptSavePictureFailed">Failed to save the picture to the file: %s</string>
+    <string name="promptSavePictureSuccess">Picture saved to the file: %s</string>
+
+</resources>
